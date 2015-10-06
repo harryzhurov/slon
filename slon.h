@@ -3,4 +3,6 @@
 
 const int SLON = 10;
 
+int f(int x);
+
 #endif // SLON_H
